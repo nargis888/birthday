@@ -8,12 +8,12 @@ body{
     background-color: rgb(145, 240, 242);
 }
  div{
-    width: 400px;
-    height: 250px;
+    width: 50vw;
+    height: 80vh;
     background-color: rgb(255, 255, 76);
     margin: 50px auto;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 5px;
     border-radius: 10px;
  }
 
