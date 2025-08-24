@@ -47,8 +47,8 @@ body{
 }
 
 .letter{
-    width: 40vw;
-    height: 40vh;
+    width: 150px;
+    height: 158px;
     background-color: rgba(244, 197, 229, 0.87);
     color: rgb(67, 147, 244);
    margin: 50px auto;
@@ -119,3 +119,10 @@ button{
 		transform: scale(1);
 	}
 } 
+
+@media only screen and (max-width:600px) {
+    .letter{
+        width: 50px;
+        height: 50px;
+    }
+}
